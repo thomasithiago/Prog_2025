@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Aula02\\Aula02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4738B-CCDF-47E5-8778-9D3BAEB2BBDC}|Aula02\\Aula02.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\aula02\\aula02\\aula02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F4738B-CCDF-47E5-8778-9D3BAEB2BBDC}|Aula02\\Aula02.csproj|solutionrelative:aula02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4738B-CCDF-47E5-8778-9D3BAEB2BBDC}|Aula02\\Aula02.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\aula02\\aula02\\aula02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F4738B-CCDF-47E5-8778-9D3BAEB2BBDC}|Aula02\\Aula02.csproj|solutionrelative:aula02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4738B-CCDF-47E5-8778-9D3BAEB2BBDC}|Aula02\\Aula02.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\aula02\\aula02\\aula02\\models\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F4738B-CCDF-47E5-8778-9D3BAEB2BBDC}|Aula02\\Aula02.csproj|solutionrelative:aula02\\models\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Aula02\\Aula02\\Aula02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Aula02\\Aula02\\Aula02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Aula02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T22:48:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Aula02\\Aula02\\Aula02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aula02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Aula02\\Aula02\\Aula02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aula02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:45:00.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataType.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Aula02\\Aula02\\Aula02\\Models\\DataType.cs",
+              "RelativeDocumentMoniker": "Aula02\\Models\\DataType.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Aula02\\Aula02\\Aula02\\Models\\DataType.cs",
+              "RelativeToolTip": "Aula02\\Models\\DataType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:34:53.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
