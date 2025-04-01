@@ -16,7 +16,7 @@ namespace Aula03.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            return View("./JogoVelha/JogoVelha");
         }
 
         [HttpGet]
@@ -141,11 +141,49 @@ namespace Aula03.Controllers
             string retorno = string.Empty;
 
             for (int i = 0; i < 10; i++)
-            {
+            {    if (i > 50)
+                
+                    break; //interrompe o laço
+                
+                
+               if ((i % 2) != 0)
+            
                 retorno += $"{i}; ";
             }
 
             return retorno;
+        }
+
+        [HttpGet]
+
+        public string GetForeach(string color)
+        {
+            /*
+             * O Comando Foreach() (para cada) é
+             * utilizado para iterar ´pr uma sequencia de
+             * itens em uma coleção,
+             * e servir como uma opção simples de repeticção
+             */
+            string[] colors = ["Vermelho", "Preto", "Azul", "Verde", "Branco", "Azul-Marinho", "Rosa", "Roxo", "Cinza"];
+
+            string retorno = string.Empty ;
+
+            if (colors.Contains(char.ToUpper(color[0]) + color.Substring(1)))
+            {
+                retorno = "A cor escolhida é valida";
+            }
+
+            else
+            {
+                retorno = "Cor escolhida inválida";
+            }
+            foreach (string s in colors)
+            {
+                retorno += $" [{s};]"; 
+            }
+
+            return retorno;
+
         }
 
         public IActionResult Privacy()

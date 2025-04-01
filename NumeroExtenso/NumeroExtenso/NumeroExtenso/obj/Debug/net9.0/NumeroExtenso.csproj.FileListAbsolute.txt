@@ -1,0 +1,8 @@
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.RazorAssemblyInfo.cache
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.RazorAssemblyInfo.cs
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.sourcelink.json
