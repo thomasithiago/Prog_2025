@@ -1,25 +1,107 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeRecursividade", "AtividadeRecursividade\AtividadeRecursividade.csproj", "{B36F38E4-703F-4B5B-81BF-E9EA6F4B06B5}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B36F38E4-703F-4B5B-81BF-E9EA6F4B06B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B36F38E4-703F-4B5B-81BF-E9EA6F4B06B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B36F38E4-703F-4B5B-81BF-E9EA6F4B06B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B36F38E4-703F-4B5B-81BF-E9EA6F4B06B5}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7EF4C85C-BA01-4E01-A600-2C504AD8809B}
-	EndGlobalSection
-EndGlobal
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Text;
+
+namespace Recursividade.Controllers
+{
+    public class RecursividadeController : Controller 
+    {
+        [HttpGet]
+        public IActionResult Index()
+        {
+            return View(); 
+        }
+
+        [HttpPost]
+        public IActionResult Atividade1(int n) 
+        {
+            StringBuilder resultado = new StringBuilder();
+            NumerosDecrescentes(n, resultado);
+            ViewBag.Resultado = resultado.ToString();
+            return View(); 
+        }
+
+        public void NumerosDecrescentes(int atual, StringBuilder resultado)
+        {
+            if (atual >= 1)
+            {
+                resultado.Append(atual).Append(" ");
+                NumerosDecrescentes(atual - 1, resultado);
+            }
+        }
+
+        [HttpPost]
+        public IActionResult Atividade2(int n)
+        {
+            StringBuilder resultado = new StringBuilder();
+            NumerosCrescentes(n, resultado);
+            ViewBag.Resultado = resultado.ToString();
+            return View();
+        }
+
+        private void NumerosCrescentes(int n, StringBuilder resultado)
+        {
+            int soma = 0;
+            for (int i = 1; i <= n; i++)
+            {
+                resultado.Append(i);
+
+                if (i < n)
+                {
+                    resultado.Append(" + ");
+                }
+
+                soma += i;
+            }
+
+            resultado.Append(" = ").Append(soma);
+        }
+
+        [HttpPost]
+        public IActionResult Atividade3(string texto)
+        {
+            int quantidade = ContarCaracteresRecursivo(texto);
+            ViewBag.Quantidade = quantidade;
+            ViewBag.TextoOriginal = texto;
+            return View("Atividade3");
+        }
+
+        private int ContarCaracteresRecursivo(string texto)
+        {
+            if (string.IsNullOrEmpty(texto))
+            {
+                return 0;
+            }
+            else
+            {
+                return 1 + ContarCaracteresRecursivo(texto.Substring(1));
+            }
+        }
+
+        [HttpPost]
+        public IActionResult Atividade4(string palavra)
+        {
+            bool ehPalindromo = EhPalindromoRecursivo(palavra);
+            ViewBag.Palavra = palavra;
+            ViewBag.Resultado = ehPalindromo ? "é um palíndromo" : "não é um palíndromo";
+            return View("Atividade4");
+        }
+
+        private bool EhPalindromoRecursivo(string palavra)
+        {
+          
+            if (string.IsNullOrEmpty(palavra) || palavra.Length == 1)
+            {
+                return true;
+            }
+
+            
+            if (palavra[0] != palavra[^1])
+            {
+                return false;
+            }
+
+            
+            return EhPalindromoRecursivo(palavra.Substring(1, palavra.Length - 2));
+        }
+    }
+}
