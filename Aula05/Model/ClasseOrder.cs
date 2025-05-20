@@ -7,7 +7,10 @@ using System.Threading.Tasks;
 namespace Model
 {
     class ClasseOrder
+
     {
+        #region Atributes 
+
         public int Id { get; set; }
 
         public Customer ? Customer { get; set; }
