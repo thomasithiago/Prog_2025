@@ -3,44 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\repository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|solutionrelative:repository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\repository\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|solutionrelative:repository\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\repository\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|solutionrelative:repository\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\repository\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|solutionrelative:repository\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\aula05\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\model\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|solutionrelative:model\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|solutionrelative:model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\aula05\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\model\\classeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|solutionrelative:model\\classeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\aula05\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\aula05\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|solutionrelative:model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C1A0EC-86BD-48B8-A04C-0E57F664000B}|Model\\Model.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\aula05\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\repository\\custumerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C751D7-613C-4E6A-AA5B-0D4B30D1C376}|Repository\\Repository.csproj|solutionrelative:repository\\custumerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\aula05\\controllers\\customercontroleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|solutionrelative:aula05\\controllers\\customercontroleler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\aula05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|c:\\users\\thiag\\onedrive\\desktop\\programa\u00E7\u00E3o\\prog_2025\\aula05\\aula05\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E24E038F-E097-4B77-AF71-F08F22D6D5E0}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +70,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\Product.cs",
-              "RelativeDocumentMoniker": "Repository\\Product.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\Product.cs",
-              "RelativeToolTip": "Repository\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:58:25.062Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T00:56:30.852Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Repository\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\OrderItem.cs",
-              "RelativeToolTip": "Repository\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:58:11.167Z",
-              "EditorCaption": ""
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T00:55:52.335Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\Order.cs",
-              "RelativeDocumentMoniker": "Repository\\Order.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\Order.cs",
-              "RelativeToolTip": "Repository\\Order.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:57:53.827Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T00:55:25.332Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\Address.cs",
-              "RelativeDocumentMoniker": "Repository\\Address.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\Address.cs",
-              "RelativeToolTip": "Repository\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:57:35.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\CustomerRepository.cs",
-              "RelativeToolTip": "Repository\\CustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:54:33.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Addres.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\Addres.cs",
-              "RelativeDocumentMoniker": "Model\\Addres.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\Addres.cs",
-              "RelativeToolTip": "Model\\Addres.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:34:14.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\Customer.cs",
               "RelativeDocumentMoniker": "Model\\Customer.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\Customer.cs",
               "RelativeToolTip": "Model\\Customer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBsAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:13:09.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T00:53:46.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClasseOrder.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\ClasseOrder.cs",
-              "RelativeDocumentMoniker": "Model\\ClasseOrder.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\ClasseOrder.cs",
-              "RelativeToolTip": "Model\\ClasseOrder.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:36:13.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Model\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\OrderItem.cs",
-              "RelativeToolTip": "Model\\OrderItem.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:31:22.77Z",
+              "WhenOpened": "2025-05-27T00:17:12.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T00:56:50.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:58:08.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\Product.cs",
               "RelativeDocumentMoniker": "Model\\Product.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\Product.cs",
               "RelativeToolTip": "Model\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wBAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:22:49.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T00:50:56.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\OrderItem.cs",
+              "RelativeToolTip": "Model\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:36:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:35:29.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustumerData.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\CustumerData.cs",
+              "RelativeDocumentMoniker": "Repository\\CustumerData.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Repository\\CustumerData.cs",
+              "RelativeToolTip": "Repository\\CustumerData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:35:20.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T00:29:23.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T00:22:32.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerControleler.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Controllers\\CustomerControleler.cs",
+              "RelativeDocumentMoniker": "Aula05\\Controllers\\CustomerControleler.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Controllers\\CustomerControleler.cs",
+              "RelativeToolTip": "Aula05\\Controllers\\CustomerControleler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:09:35.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula05\\Aula05\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T23:28:09.287Z"
             }
           ]
         }

@@ -97,3 +97,4 @@ C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\Aula05\Aula05\obj\Debug\
 C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\Aula05\Aula05\obj\Debug\net9.0\Aula05.pdb
 C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\Aula05\Aula05\obj\Debug\net9.0\Aula05.genruntimeconfig.cache
 C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\Aula05\Aula05\obj\Debug\net9.0\ref\Aula05.dll
+C:\Users\thiag\OneDrive\Desktop\Programação\Prog_2025\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.AssemblyReference.cache

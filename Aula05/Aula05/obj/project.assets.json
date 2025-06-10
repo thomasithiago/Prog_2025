@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Model >= 1.0.0",
+      "Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\thiag\\.nuget\\packages\\": {},
@@ -38,7 +76,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\thiag\\OneDrive\\Desktop\\Programação\\Prog_2025\\Aula05\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programação\\Prog_2025\\Aula05\\Model\\Model.csproj"
+            },
+            "C:\\Users\\thiag\\OneDrive\\Desktop\\Programação\\Prog_2025\\Aula05\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programação\\Prog_2025\\Aula05\\Repository\\Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

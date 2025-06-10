@@ -1,33 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Model
+﻿namespace Modelo
 {
-    class Product
+    public class Product
     {
         public int Id { get; set; }
+        public string? Name { get; set; }
+        public string? Description { get; set; }
+        public double CurrentPrice { get; set; }
 
-        public string ? ProductName { get; set; }
-
-        public string? ProductDescription { get; set;
-
-        public string? CurrentPrice { get; set; }
-
-
-        public bool Validate ()
+        public bool Validate()
         {
-            return true;
+            bool isValid = true;
+
+            isValid =
+                !string.IsNullOrEmpty(this.Name) &&
+                (this.Id > 0) &&
+                (this.CurrentPrice > 0);
+
+            return isValid;
         }
 
-        public Product Retrieve ()
+        public Product Retrieve()
         {
             return new Product();
-
         }
 
         public void Save(Product product)
+        {
+        }
     }
 }
