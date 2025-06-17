@@ -1,0 +1,31 @@
+﻿@model Aula05.ViewsModels.OrderViewModel
+
+<div class="text-center">
+    <h1>Cadastro de Pedido</h1>
+
+    <div class="container">
+
+        <form id="formCustome" method="post"
+              asp-action="Create"
+              asp-controller="Order
+
+            <div class="row">
+                <div class="form-group">
+                    <label asp-for="@Model.Name">Nome:</label>
+                    <input type="text"
+                           class="form-control"
+                           asp-for="@Model.Name" />
+                </div>
+            </div>
+
+            <button id="btnCustomer"
+                    type="submit"
+                    class="btn btn-primary"
+                    value="Cadastrar">
+                Cadastrar
+            </button>
+
+        </form>
+
+    </div>
+</div>

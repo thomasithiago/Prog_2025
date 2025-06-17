@@ -1,4 +1,5 @@
-﻿namespace Modelo
+﻿
+namespace Modelo
 {
     public class Product
     {
@@ -26,6 +27,11 @@
 
         public void Save(Product product)
         {
+        }
+
+        public static implicit operator Product(Customer v)
+        {
+            throw new NotImplementedException();
         }
     }
 }
