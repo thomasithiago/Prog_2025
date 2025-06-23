@@ -34,8 +34,7 @@
               "RelativeToolTip": "Aula03\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:16:02.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T23:16:02.325Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Aula03\\Controllers\\JogoVelhaController.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\Desktop\\Programa\u00E7\u00E3o\\Prog_2025\\Aula03\\Aula03\\Controllers\\JogoVelhaController.cs",
               "RelativeToolTip": "Aula03\\Controllers\\JogoVelhaController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T23:01:06.943Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Aula03\\Views\\Home\\JogoVelha\\JogoVelha.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T23:00:27.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T23:00:27.197Z"
             }
           ]
         }

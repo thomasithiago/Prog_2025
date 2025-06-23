@@ -1,0 +1,50 @@
+﻿@model SeuProjeto.ViewModels.PedidoViewModel
+
+@{
+    ViewData["Title"] = "Cadastro de Pedido";
+}
+
+<h2>Cadastro de Pedido</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Cliente:</label>
+        <select asp-for="ClienteSelecionado" class="form-control">
+            <option>-- Selecione um Cliente --</option>
+            @foreach (var cliente in Model.Clientes)
+            {
+                <option value="@cliente">@cliente</option>
+            }
+        </select>
+    </div>
+
+    <br />
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Item</th>
+                <th>Qtd</th>
+                <th>Valor</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Produtos.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <input asp-for="Produtos[@i].Selecionado" type="checkbox" />
+                    </td>
+                    <td>@Model.Produtos[i].Nome</td>
+                    <td>
+                        <input asp-for="Produtos[@i].Quantidade" class="form-control" type="number" min="0" />
+                    </td>
+                    <td>R$ @Model.Produtos[i].Valor</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-primary">Enviar Pedido</button>
+</form>
